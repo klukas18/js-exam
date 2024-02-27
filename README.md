@@ -1,3 +1,5 @@
+# SudokuSolver.
+
 This is a simple web-app that solves given sudoku board.
 <br>
 You can check it out here:
@@ -18,3 +20,7 @@ The app is made with:
 > Vanilla JavaScript
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+![Screenshot_1](https://github.com/klukas18/js-exam/assets/134596428/5c9edd71-715f-48cd-adb9-39523520eb76)
+
+
