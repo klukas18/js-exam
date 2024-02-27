@@ -1,4 +1,5 @@
 This is a simple web-app that solves given sudoku board.
+<br>
 You can check it out here:
 
 https://klukas18.github.io/js-exam/
